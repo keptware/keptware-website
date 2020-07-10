@@ -22,10 +22,10 @@ import { CoursesPageComponent } from './components/pages/courses-page/courses-pa
 import { CoursesDetailsPageComponent } from './components/pages/courses-details-page/courses-details-page.component';
 
 const routes: Routes = [
-    {path: '', component: HomepageOneComponent},
-    {path: 'home-two', component: HomepageTwoComponent},
-    {path: 'home-three', component: HomepageThreeComponent},
-    {path: 'home-four', component: HomepageFourComponent},
+    {path: '', component: HomepageTwoComponent},
+    // {path: 'home-two', component: HomepageTwoComponent},
+    // {path: 'home-three', component: HomepageThreeComponent},
+    // {path: 'home-four', component: HomepageFourComponent},
     {path: 'about-us', component: AboutPageComponent},
     {path: 'team', component: TeamPageComponent},
     {path: 'services', component: ServicesPageComponent},

@@ -14,8 +14,9 @@ export class HometwoBannerComponent implements OnInit {
 
     bannerContent: Content[] = [
         {
-            title: 'Data Analytics Consulting Services',
-            paragraphText: 'World leading reliable research & AI based Data Analytics solutions for Big Data companies and consumer business products. Drive your success without stress!',
+            title: 'Software for People, Not for Client',
+            paragraphText: 'We develop software by living in it. Our passion is to work hard and deliver unique softwares for the people. Your imagination to code without stress!',
+            // paragraphText: 'World leading reliable research & AI based Data Analytics solutions for Big Data companies and consumer business products. Drive your success without stress!',
             defaultBtnIcon: 'flaticon-structure',
             defaultBtnText: 'About Us',
             defaultBtnLink: 'about-us-2',
