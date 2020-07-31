@@ -16,10 +16,10 @@ export class HometwoBoxesComponent implements OnInit {
         {
             icon: 'assets/img/icon/icon1.png',
             title: 'SaaS Applications',
-            paragraphText: 'SaaS business is booming! We are here to help to make your next SaaS idea up and running without hassle.',
+            paragraphText: 'SaaS business is booming! We are here to help you to make your next SaaS idea up and running without hassle.',
             btnIcon: 'flaticon-right',
             btnText: 'Read More',
-            link: 'single-services-2'
+            link: '#'
         },
         {
             icon: 'assets/img/services/icon2.png',
@@ -27,15 +27,15 @@ export class HometwoBoxesComponent implements OnInit {
             paragraphText: 'Every body has smart phones these days, so lets make apps together to get most out of it. Just imagine how many things we can build!',
             btnIcon: 'flaticon-right',
             btnText: 'Read More',
-            link: 'single-services-2'
+            link: '#'
         },
         {
             icon: 'assets/img/services/icon3.png',
             title: 'Web Apps',
-            paragraphText: 'You think about an enterprise level web application or website to serve people and small businesses, do not worry we got you covered for it too!',
+            paragraphText: 'You think about a web app for your business or a personal website to just have something special, do not worry we got you covered for it too!',
             btnIcon: 'flaticon-right',
             btnText: 'Read More',
-            link: 'single-services-2'
+            link: '#'
         }
     ]
 

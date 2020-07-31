@@ -21,15 +21,15 @@ export class ContactPageComponent implements OnInit {
         {
             icon: 'bx bx-map',
             title: 'Our Address',
-            location: '175 5th Ave, New York, NY 10010, United States'
+            location: '20-22 Wenlock Road, London, N1 7GU, United Kingdom'
         }
     ]
     contactInfoBox2: InfoBox2[] = [
         {
             icon: 'bx bx-phone-call',
             title: 'Contact',
-            number: '(+44) - 45789 - 5789',
-            email: 'hello@wilo.com'
+            number: '(+44) - 790403 - 4224',
+            email: 'hello@keptware.co.uk'
         }
     ]
     contactInfoBox3: InfoBox3[] = [

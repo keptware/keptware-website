@@ -20,12 +20,12 @@ export class HometwoAboutComponent implements OnInit {
     aboutContent: Content[] = [
         {
             subTitle: 'About Us',
-            title: 'Business Analytics For Data-Driven Solutions',
+            title: 'Development With Modern Tech Stacks', // Business Analytics For Data-Driven Solutions
             paragraphText1: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.',
             paragraphText2: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.',
             defaultBtnIcon: 'flaticon-right',
             defaultBtnText: 'More About Us',
-            defaultBtnLink: 'about-us-2'
+            defaultBtnLink: '#'
         }
     ]
     aboutList: List[] = [

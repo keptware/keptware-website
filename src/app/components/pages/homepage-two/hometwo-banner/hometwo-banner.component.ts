@@ -19,10 +19,10 @@ export class HometwoBannerComponent implements OnInit {
             // paragraphText: 'World leading reliable research & AI based Data Analytics solutions for Big Data companies and consumer business products. Drive your success without stress!',
             defaultBtnIcon: 'flaticon-structure',
             defaultBtnText: 'About Us',
-            defaultBtnLink: 'about-us-2',
+            defaultBtnLink: '#',
             videoBtnIcon: 'flaticon-google-play',
             videoBtnText: 'Watch Video',
-            videoBtnLink: 'https://www.youtube.com/watch?v=Y5KCDWi7h9o'
+            videoBtnLink: '#'
         }
     ]
 
