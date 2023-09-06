@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --configuration production --base-href https://github.com/keptware/keptware-website",
+    "build": "ng build --configuration production --base-href https://keptware.github.com/keptware-website",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
